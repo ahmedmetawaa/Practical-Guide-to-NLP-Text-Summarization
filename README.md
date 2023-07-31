@@ -1,9 +1,8 @@
-# Practical-Guide-to-NLP-Text-Summarization
+# Throughout this notebook,
+# we will explore two primary approaches to text summarization: extractive, abstractive and How can we evaluate them.
 
 
-Throughout this notebook,
 
-we will explore two primary approaches to text summarization: extractive, abstractive and How can we evaluate them.
 
 Extractive Summarization: In this method, important sentences or phrases are selected directly from the input text to form the summary.
 
